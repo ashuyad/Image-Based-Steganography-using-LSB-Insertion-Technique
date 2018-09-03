@@ -1,4 +1,4 @@
-# Steganography
+# Image Based Steganography using LSB Insertion Technique
 Implementing Steganography
 -------------------------------
 
